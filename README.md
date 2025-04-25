@@ -49,5 +49,3 @@ java -jar target/webhook-app-0.0.1-SNAPSHOT.jar
 ## JAR Download
 You can download the latest JAR from the [Releases](https://github.com/yourusername/bajaj-finserv-challenge/releases) page.
 
-## License
-MIT License 
